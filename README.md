@@ -33,6 +33,12 @@ A step-by-step series of examples that tell you how to get a development environ
     # On Unix or MacOS:
     source venv/bin/activate
    ```
+
+   After you've finished running your script, you can deactivate the virtual environment by simply typing:
+   ```bash
+   deactivate
+   ```
+   
 4. **Preparing to Run the Script**
    
    Before running the script, you need to replace the placeholder "your_24_word_mnemonic_phrase_here" in the script with your actual 24-word mnemonic phrase.
