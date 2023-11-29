@@ -34,8 +34,9 @@ A step-by-step series of examples that tell you how to get a development environ
     source venv/bin/activate
    ```
 4. **Preparing to Run the Script**
-Before running the script, you need to replace the placeholder "your_24_word_mnemonic_phrase_here" in the script with your actual 24-word mnemonic phrase.
-This phrase will then be converted into a hexadecimal string by the script.
+   
+   Before running the script, you need to replace the placeholder "your_24_word_mnemonic_phrase_here" in the script with your actual 24-word mnemonic phrase.
+   This phrase will then be converted into a hexadecimal string by the script.
 
 
 ### Running the Script
